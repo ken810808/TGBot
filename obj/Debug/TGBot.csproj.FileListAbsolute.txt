@@ -1,0 +1,11 @@
+D:\code\side-project\TGBot\bin\Debug\TGBot.exe.config
+D:\code\side-project\TGBot\bin\Debug\TGBot.exe
+D:\code\side-project\TGBot\bin\Debug\TGBot.pdb
+D:\code\side-project\TGBot\bin\Debug\Newtonsoft.Json.dll
+D:\code\side-project\TGBot\bin\Debug\Telegram.Bot.dll
+D:\code\side-project\TGBot\bin\Debug\Newtonsoft.Json.xml
+D:\code\side-project\TGBot\bin\Debug\Telegram.Bot.xml
+D:\code\side-project\TGBot\obj\Debug\TGBot.csprojAssemblyReference.cache
+D:\code\side-project\TGBot\obj\Debug\TGBot.csproj.CopyComplete
+D:\code\side-project\TGBot\obj\Debug\TGBot.exe
+D:\code\side-project\TGBot\obj\Debug\TGBot.pdb
